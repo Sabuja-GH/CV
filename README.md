@@ -1,3 +1,3 @@
 # CV
-personal Website,
-Currently hosted on https://sabuja-gh.github.io/CV/
+Personal Website,
+currently hosted on https://sabuja-gh.github.io/CV/
